@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Trey Torrez
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Trey Torrez
+Programmer, Computer Scientist, Professional Tinkerer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="treytorrez@proton.com">treytorrez@proton.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
@@ -22,7 +22,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Automation, Linux systems, Distributed computing, Machine Learning
 
 
 ## Education
